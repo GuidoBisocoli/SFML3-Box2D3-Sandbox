@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+Format:
+n  => name
+x  => x pos
+y  => y pos
+w  => width
+h  => height
+pX => x pos of the pivot point
+pY => y pos of the pivot point
+oX => x-corner offset
+oY => y-corner offset
+oW => original width
+oH => original height
+r => 'y' if sprite is rotated-->
+<TextureAtlas imagePath="shapes.png" width="256" height="256" scale="1" format="RGBA8888">
+  <sprite n="crate_0.png" x="0" y="0" w="98" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_2.png" x="98" y="0" w="98" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_1.png" x="196" y="0" w="48" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_4.png" x="0" y="48" w="98" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_6.png" x="98" y="48" w="98" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_3.png" x="196" y="48" w="48" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_8.png" x="0" y="96" w="98" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_5.png" x="0" y="144" w="48" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="crate_7.png" x="0" y="192" w="48" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="box_small.png" x="0" y="240" w="16" h="14" pX="0.5" pY="0.5"/>
+  <sprite n="crate_9.png" x="48" y="144" w="48" h="48" pX="0.5" pY="0.5"/>
+  <sprite n="floor.png" x="48" y="192" w="32" h="32" pX="0.5" pY="0.5"/>
+  <sprite n="box_big.png" x="48" y="224" w="22" h="18" pX="0.5" pY="0.5"/>
+</TextureAtlas>
