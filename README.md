@@ -1,7 +1,13 @@
 # SFML3-Box2D3-Sandbox
 A Sandbox made with SFML3 and Box2D3, great as a base for a 2D project with physics.
 
-# Section Usage
+
+
+https://github.com/user-attachments/assets/8e3b8979-ff4f-410a-9c55-5cebe12edf67
+
+
+
+# Usage - Visual Studio
 - Add the following folders to you Additional Include Directories:
   - $(ProjectDir)hdr
   - ...\SFML-3...\include
@@ -16,3 +22,4 @@ A Sandbox made with SFML3 and Box2D3, great as a base for a 2D project with phys
   - For Debug: sfml-graphics-d-3.dll, sfml-system-d-3.dll and sfml-window-d-3.dll (found in SFML-3...\bin\)
   - For Release: sfml-graphics-3.dll, sfml-system-3.dll and sfml-window-3.dll (found in SFML-3...\bin\)
 - Copy box2dd.lib (found in box2d-3...\build\src\Debug) and box2d.lib (found in box2d-3...\build\src\Release) to your Project folder
+
