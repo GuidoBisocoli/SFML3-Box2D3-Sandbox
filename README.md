@@ -15,6 +15,7 @@ https://github.com/user-attachments/assets/8e3b8979-ff4f-410a-9c55-5cebe12edf67
 - Open .sln and configure your paths in Project Settings
 - Try to run it, it will give error but it will create the folders x64/Debug and x64/Release
 - Download [SFML](https://www.sfml-dev.org/download/) and copy on those folders sfml-graphics(-d)-3.dll, sfml-system(-d)-3.dll and sfml-window(-d)-3.dll
+- OR JUST DOWNLOAD IT FROM RELEASES IF YOU WANT TO PLAY IT.
 
 ### Controls
 - SPACE: spawn crate or box
