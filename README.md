@@ -10,6 +10,12 @@ A simple 2D physics sandbox demonstrating:
 
 https://github.com/user-attachments/assets/8e3b8979-ff4f-410a-9c55-5cebe12edf67
 
+### Usage
+- Download and extract Box2D and copy box2d.lib and box2dd.lib to your project directory
+- Open .sln and configure your paths in Project Settings
+- Try to run it, it will give error but it will create the folders x64/Debug and x64/Release
+- Copy on those folders sfml-graphics(-d)-3.dll, sfml-system(-d)-3.dll and sfml-window(-d)-3.dll
+
 ### Controls
 - SPACE: spawn crate or box
 - C: spawn crate
