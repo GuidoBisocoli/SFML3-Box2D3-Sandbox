@@ -8,6 +8,8 @@ A simple 2D physics sandbox demonstrating:
 - Joints (Box2D)
 - Spritesheet/Tileset usage
 
+https://github.com/user-attachments/assets/8e3b8979-ff4f-410a-9c55-5cebe12edf67
+
 ### Controls
 - SPACE: spawn crate or box
 - C: spawn crate
@@ -20,4 +22,4 @@ A simple 2D physics sandbox demonstrating:
 - SFML 3
 - Box2D 3
 
-https://github.com/user-attachments/assets/8e3b8979-ff4f-410a-9c55-5cebe12edf67
+
